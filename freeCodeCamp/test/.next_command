@@ -324,3 +324,4 @@ cap footer.jpeg
 cap footer.jpeg images
 cp footer.jpeg images
 cd images
+ls --color=auto
