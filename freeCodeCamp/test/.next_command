@@ -392,3 +392,9 @@ find
 find -name header.png
 find -n footer.jpeg
 find -name footer.jpeg
+cd images/
+ls --color=auto
+cd ..
+mv images/footer.jpeg clients/assets/images
+ls --color=auto
+mv ./images/footer.jpeg client/assets/images
