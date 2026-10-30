@@ -317,3 +317,4 @@ cd ..
 ls --color=auto
 rm backgound.jpg
 rm background.jpg
+ls --color=auto
