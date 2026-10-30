@@ -398,3 +398,4 @@ cd ..
 mv images/footer.jpeg clients/assets/images
 ls --color=auto
 mv ./images/footer.jpeg client/assets/images
+find
