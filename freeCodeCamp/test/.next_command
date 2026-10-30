@@ -373,3 +373,4 @@ c imags
 ls --color=auto
 cd images
 ls --color=auto
+mv header.png ..
