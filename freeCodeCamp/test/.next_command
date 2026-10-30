@@ -377,3 +377,13 @@ mv header.png ..
 ls --color=auto
 cd ..
 ls --color=auto
+mv header.png client/assets/images
+ls --color=auto
+cd client/assets/images
+ls --color=auto
+mv header.png ../../..
+ls --color=auto
+cd ../../..
+ls --color=auto
+find
+find -name images
