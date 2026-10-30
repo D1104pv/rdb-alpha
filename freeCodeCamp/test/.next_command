@@ -402,3 +402,4 @@ find
 rmdir images
 rm images/backgroung.jpg
 rm ./images/background.jpg
+rmdir images
