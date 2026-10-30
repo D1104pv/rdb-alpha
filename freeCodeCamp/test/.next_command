@@ -369,3 +369,6 @@ rm backgroung.jpg
 ls --color=auto
 touch background.jpg
 cd ../../..
+c imags
+ls --color=auto
+cd images
