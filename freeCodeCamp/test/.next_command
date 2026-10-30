@@ -281,3 +281,4 @@ ls --color=auto
 clear
 mkdor website
 mkdir website
+ls --color=auto
