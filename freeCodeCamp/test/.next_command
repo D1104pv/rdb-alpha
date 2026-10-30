@@ -404,3 +404,5 @@ rm images/backgroung.jpg
 rm ./images/background.jpg
 rmdir images
 ls --color=auto
+mkdir clients/assets/icons
+mkdir ./client/assets/icons
